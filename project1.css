@@ -2,3 +2,12 @@
     background-color: blue;
     text-transform: capitalize;
 }
+
+#new{
+    background-color: blueviolet;
+    height: 150px;
+    width: 150px;
+    border-style:dotted;
+    
+
+}
